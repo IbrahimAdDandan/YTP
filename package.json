@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/IbrahimAdDandan/YTP/issues"
   },
-  "homepage": "https://github.com/IbrahimAdDandan/YTP#readme"
+  "homepage": "https://github.com/IbrahimAdDandan/YTP#readme",
+  "dependencies": {
+    "load-script2": "^2.0.6"
+  }
 }
